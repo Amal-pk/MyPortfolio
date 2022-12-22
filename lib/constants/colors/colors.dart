@@ -18,16 +18,8 @@ class ConstantColors {
 
   static Gradient familiarGradient = const LinearGradient(
     colors: [
-      Colors.pink,
-      Colors.redAccent,
-      Colors.orange,
-      Colors.deepOrange,
-      Colors.orangeAccent,
-      Colors.red,
-      Colors.pink,
-      Colors.orangeAccent,
-      Colors.pinkAccent,
-      Colors.orangeAccent,
+      Colors.blueGrey,
+      Colors.grey,
     ],
     begin: Alignment.topLeft,
     end: Alignment.bottomRight,

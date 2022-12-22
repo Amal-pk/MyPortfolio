@@ -72,6 +72,8 @@ flutter:
     - assets/user_profiles/
     - assets/social_media_icons/
     - assets/others/
+    - assets/skills/
+    - assets/familiar_with/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

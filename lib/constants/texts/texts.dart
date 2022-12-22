@@ -4,7 +4,7 @@ class ConstantTexts {
   static String userName = 'Amal PK';
   static String domainName = 'Flutter Developer';
   static String userDescription =
-      'Self-taught Flutter developer who got trained under Brototype, with divergent experience of handling multifaceted Mobile Apps. Developed projects with denominating features through research, developing and designing with and industrial standards. After 12th grade, perceiving my interest are keenly on software development I choose to dedicate time on my passion instead of going for an ordinary time consuming degree.';
+      'Passionate and self-taught Flutter developer capable of learning and adopting the latest technologies. A solid mind to tasks and responsibility to track and review progress until the committed job is completed. Possess a solid commitment to the team environment and enjoy working as a team member and independently. Does works with great passion and determination. ';
   static String quote =
       '"One of the best programming skills you can have is knowing when to walk away for a while"';
 
@@ -13,7 +13,7 @@ class ConstantTexts {
   static String firstProjectName = 'MUSIC PLAYER';
   static String firstProjectDate = 'July 2022 - Aug 2022';
   static String firstProjectDescription =
-      'Money management application is an expense and income tracker, it will help the user to track their flow of money .I used Getx state management and MVC pattern as my coding standard in this  project.';
+      "It's an Offline Music-Player App made by flutter, using Hive asdatabase . GetX used for State-management and used MVVM architecture . It have favorite and playlist and initially the app will ask for permission to get all audio files on the users device, it have mini-Player and also having Status bar for current Playing with info, And also Hosted the App in Play store.";
 
 //------------------------------------------------string second project details
 
@@ -25,12 +25,15 @@ class ConstantTexts {
 //------------------------------------------------list skills
 
   static List<String> skillsTexts = [
-    'Dart & Flutter',
-    'Firebase',
+    'Flutter',
+    'Dart',
+    'GetX',
+    'Provider',
     'Hive',
+    'Firebase',
     'Rest API',
-    'Get x',
     'Animations',
+    'Figma'
   ];
 
 //------------------------------------------------list of features first project
